@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Doge-Node</Name>
-  <Repository>bigmandave/dogecoin-docker</Repository>
+  <Repository>bigmandave/doge-node</Repository>
   <Registry>https://hub.docker.com/r/bigmandave/doge-node</Registry>
   <Network>bridge</Network>
   <MyIP/>
