@@ -15,7 +15,7 @@
     [br][br]&#xD;
     You must create file called dogecoin.conf in the Appdata directory. Refer to https://raw.githubusercontent.com/BigManDave/dogecoin-docker/main/dogecoin.conf for an example file.&#xD;
   </Overview>
-  <Category>Network:Other</Category>
+  <Category>Network:Other Crypto:</Category>
   <WebUI/>
   <TemplateURL/>
   <Icon>https://raw.githubusercontent.com/BigManDave/dogecoin-docker/main/icon.png</Icon>
