@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/113208-support-bigmandaves-docker-templates/</Support>
   <Project>https://dogecoin.com/</Project>
   <Overview>    Support the Dogecoin network by hosting your own node! This template provides a full Dogecoin Core node based on Ubuntu.&#xD;
     [br][br]&#xD;
